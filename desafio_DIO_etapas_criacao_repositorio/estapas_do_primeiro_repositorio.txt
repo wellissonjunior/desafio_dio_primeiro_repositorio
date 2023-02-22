@@ -1,0 +1,13 @@
+1º Baixar o Git e criar uma conta no GitHub
+
+2º Após estar logado no GitHub, acesse a função de criar um novo repositório. (Sempre coloque nomes sugestivos e de fácil identificação)
+
+3º Prefira por deixar seu repositório público. Assim será mais fácil para empresas visualizarem seus projetos e outros desenvolvedores compartilharem conhecimento com seus projetos.
+
+4º Crie uma pasta no seu PC onde ficará armazenado o projeto. Abra o Git Bash na sua pasta e clone seu projeto do GitHub.
+
+5º As alterações deverão receber o commit para a nuvem através do git add .(Ele incluirá seus novos arquivos no projeto local).
+
+6º Digite o código Git commit -m e adicione suas alterações no GitHub (Coloque uma mensagem que represente bem as alterações feitas no projeto).
+
+7º Para finalizar, digite o código push origin main. Agora suas alterações estarão disponíveis no GitHub
